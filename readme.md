@@ -16,4 +16,10 @@ $ ./tether_monitor
 RX: 76.90 MB (+0.28 MB) | TX: 4.96 MB (+0.01 MB)
 RX: 77.12 MB (+0.22 MB) | TX: 4.98 MB (+0.02 MB)
 RX: 77.36 MB (+0.24 MB) | TX: 5.01 MB (+0.03 MB)
+```
 
+## Compile
+
+```bash
+gcc tether_monitor.c -lglfw -lGL -lm -o tether_monitor
+```
