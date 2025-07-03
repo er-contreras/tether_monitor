@@ -21,5 +21,5 @@ RX: 77.36 MB (+0.24 MB) | TX: 5.01 MB (+0.03 MB)
 ## Compile
 
 ```bash
-gcc tether_monitor.c -lglfw -lGL -lm -o tether_monitor
+gcc tether_hud_x11.c -lX11 -lGL -lm -o tether_hud_x11
 ```
