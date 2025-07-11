@@ -23,3 +23,4 @@ RX: 77.36 MB (+0.24 MB) | TX: 5.01 MB (+0.03 MB)
 ```bash
 gcc tether_hud_x11.c -lX11 -lGL -lm -o tether_hud_x11
 ```
+<img width="1280" height="779" alt="tether_HUD" src="https://github.com/user-attachments/assets/961167fe-401d-4f8e-b3c6-0ecb541f3dcc" />
